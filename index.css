@@ -19,6 +19,7 @@ h4 {
     margin-bottom: 140px;
     min-width: 120px;
     min-height: 155px;
+    text-align: center;
 }
 h5{
     color: #F94F6D;
@@ -28,6 +29,7 @@ h5{
     margin-bottom: 140px;
     min-width: 120px;
     min-height: 155px;
+    text-align: center;
 }
 button {
     background-color: #1B244A;
